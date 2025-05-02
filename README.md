@@ -53,7 +53,7 @@ Each script reads input from a file called:
 ```
 input.txt
 ```
-
+This file should be in the same directory of the script
 But you don't need to rename all your inputs.
 
 You can keep each input file named by day (e.g. `day08.txt`, `day12.txt`, etc.) and simply update the script to use it:
